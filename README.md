@@ -1,2 +1,2 @@
 # discord-soulfire-backup-bot
-30 star gelince paylaşılacak.
+50 star gelince paylaşılacak.
